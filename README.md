@@ -249,7 +249,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 - [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), SIFT feature encoded by BOW.
 - [VGG Image Search Engine](https://gitlab.com/vgg/vise), SIFT feature encoded by BOW.
 - [SoTu](https://github.com/zysite/SoTu), A flask-based cbir system.
-- [yisou](https://yisou.yuanbin.me/), A flask-based painting cbir system, the search algorithm is designed by [Yong Yuan](http://yongyuan.name/).
+- [ScrollShot](https://scrollshot.work), Stitch Images On iOS and Mac.
 
 ## Datasets
 
